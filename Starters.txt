@@ -1,0 +1,4 @@
+10 Starter-1 79.0  Descriprtion of Starter 1
+20 Starter-2 80.0  Description of Starter 2
+30 Starter-3 100.0  Description of Starter 3
+40 Starter-4 68.0 Description random
